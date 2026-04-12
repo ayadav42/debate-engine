@@ -6,6 +6,7 @@
 Built with [thinkn.ai beliefs SDK](https://thinkn.ai/dev) + [Exa](https://exa.ai) + GPT-4o.
 
 ---
+[DEMO VIDEO](https://youtu.be/r-gce3MPpkw)
 
 ## What It Does
 
