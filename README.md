@@ -1,12 +1,12 @@
-# multi-agent-debate-system
-# 🧠 Belief Debate Engine
+# 🧠 Debate Engine
 
 > A multi-agent epistemic reasoning system that researches both sides of any question using live web sources, structured belief graphs, and semantic contradiction detection.
 
 Built with [thinkn.ai beliefs SDK](https://thinkn.ai/dev) + [Exa](https://exa.ai) + GPT-4o.
 
 ---
-[DEMO VIDEO](https://youtu.be/r-gce3MPpkw)
+
+# [DEMO VIDEO](https://youtu.be/cgeO4PT6tQg)
 
 ## What It Does
 
